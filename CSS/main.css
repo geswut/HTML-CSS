@@ -1,9 +1,8 @@
-ul.nav li {
+ul {
   text-decoration: none;
   background-color: Gray;
   margin: 10px;
   padding: 25px;
-
 }
 
 li {
@@ -13,6 +12,7 @@ li {
   border: 2px;
   border-color: black;
   display: inline-block;
+  font-size: 40px;
 
 }
 

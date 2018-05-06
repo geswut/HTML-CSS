@@ -2,14 +2,16 @@ ul {
   text-decoration: none;
   background-color: Gray;
   margin: 10px;
-  padding: 25px;
+  padding: 10px;
+  font-family: "Kaushan Script"
 }
 
 li {
   background-color: #525454;
   color: #fff;
-  Padding: 40px;
+  Padding: 10px;
   border: 2px;
+  margin: 0 20px;
   border-color: black;
   display: inline-block;
   font-size: 40px;
@@ -22,10 +24,18 @@ li {
 }
 
 img {
-   width: 60%;
+   width: 20%;
+   height: 20%;
    padding: 10px;
-   margin: 10px;
+   margin: auto;
 
+}
+iframe {
+  border-radius: 1%;
+  border: 2px;
+  border-color: black;
+  display: inline-block;
+  margin: 10px;
 }
 
 .html {
@@ -38,6 +48,27 @@ img {
 
 body {
   text-align: center;
+  font-family: "Marck Script"
+}
+
+p {
+  font-size: 25px;
+}
+
+Button {
+  margin: 20px 0;
+  padding: 20px;
+  border: 2px;
+  background-color: gray;;
+  font-size: 25px;
+  border-radius: 20px;
+  color: #fff;
+  display: inline-block;
+}
+
+div.button {
+  margin: 0 10px;
+  display: inline-block;
 }
 
 #div {
@@ -45,6 +76,9 @@ body {
   height: 100px;
   width: 100px;
   border-radius: 100%
+}
+
+a {
 
 }
 
